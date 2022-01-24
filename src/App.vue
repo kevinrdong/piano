@@ -358,6 +358,7 @@ button {
       left: 50%;
       transform: translate(-50%);
       font-size: 8px;
+      user-select: none;
     }
   }
 }
